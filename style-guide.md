@@ -83,7 +83,7 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - Charlotte Mont d'Or
 - Charlotte Yuen
 - Chouchou
-- Coby
+- Koby
 - Corazón
 - Daz Bones (Mr. 1)
 - Donquixote Doflamingo (Donquixote is one word)
@@ -112,7 +112,7 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - Jinbe
 - Jorl (Waterfall Beard)
 - Jozu
-- Kaidou
+- Kaido
 - Kalifa
 - Karasu
 - Karoo
@@ -140,7 +140,7 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - Shakuyaku (Nicknamed Shakky)
 - Shalria
 - Sham
-- Shiryuu
+- Shiryu
 - Smoker (Smokey)
 - Sodom
 - Squard
@@ -151,7 +151,7 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - Trebol (without an accent)
 - Usopp
 - Vasco Shot
-- Wiper
+- Wyper
 - Zunisha
 
 ### 1.1.4. Events
